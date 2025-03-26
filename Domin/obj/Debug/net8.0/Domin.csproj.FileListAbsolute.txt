@@ -1,0 +1,11 @@
+D:\Exams\Domin\bin\Debug\net8.0\Domin.deps.json
+D:\Exams\Domin\bin\Debug\net8.0\Domin.dll
+D:\Exams\Domin\bin\Debug\net8.0\Domin.pdb
+D:\Exams\Domin\obj\Debug\net8.0\Domin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exams\Domin\obj\Debug\net8.0\Domin.AssemblyInfoInputs.cache
+D:\Exams\Domin\obj\Debug\net8.0\Domin.AssemblyInfo.cs
+D:\Exams\Domin\obj\Debug\net8.0\Domin.csproj.CoreCompileInputs.cache
+D:\Exams\Domin\obj\Debug\net8.0\Domin.dll
+D:\Exams\Domin\obj\Debug\net8.0\refint\Domin.dll
+D:\Exams\Domin\obj\Debug\net8.0\Domin.pdb
+D:\Exams\Domin\obj\Debug\net8.0\ref\Domin.dll
